@@ -35,9 +35,7 @@ label start:
     e "ini mau di keeop"
 
     e "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-    
-    hide eileen
-    
+
     # This ends the game.
 
     return
