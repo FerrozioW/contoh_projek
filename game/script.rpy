@@ -27,7 +27,10 @@ label start:
     e "Yeet the cunny."
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
+
     e "edit"
+
+    e "test"
 
     # This ends the game.
 
