@@ -34,8 +34,7 @@ label start:
 
     e "ini mau di keeop"
 
-    e "ini bakal diganti andy juga"
-
+    e "ligma"
 
     # This ends the game.
 
