@@ -26,8 +26,16 @@ label start:
 
     e "Yeet the cunny."
 
-    e "Oeeeeeld!"
+    e "ganti lagi "
+
     e "edit"
+
+    e "test"
+
+    e "ini mau di keeop"
+
+    e "ini bakal diganti andy juga"
+
 
     # This ends the game.
 
