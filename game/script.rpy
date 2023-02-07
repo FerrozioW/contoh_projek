@@ -34,7 +34,7 @@ label start:
 
     e "ini mau di keeop"
 
-    e "ini ga mau di keep"
+    e "ini bakal diganti andy juga"
 
 
     # This ends the game.
