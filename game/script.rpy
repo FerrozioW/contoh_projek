@@ -24,6 +24,7 @@ label start:
 
     # These display lines of dialogue.
 
+    e "Yeet the cunny."
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
     e "edit"
