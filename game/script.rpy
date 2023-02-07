@@ -36,6 +36,7 @@ label start:
 
     e "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
+
     # This ends the game.
 
     return
