@@ -26,7 +26,7 @@ label start:
 
     e "Yeet the cunny."
 
-    e "ganti kalimat baru"
+    e "ganti lagi "
 
     e "edit"
 
