@@ -32,6 +32,11 @@ label start:
 
     e "test"
 
+    e "ini mau di keeop"
+
+    e "ini ga mau di keep"
+
+
     # This ends the game.
 
     return
