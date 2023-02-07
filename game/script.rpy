@@ -34,7 +34,7 @@ label start:
 
     e "ini mau di keeop"
 
-    e "ligma"
+    e "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
     # This ends the game.
 
