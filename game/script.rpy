@@ -34,10 +34,7 @@ label start:
 
     e "ini mau di keeop"
 
-    e "bukan ligma"
-
-    e " ini tambahan dari branch zio"
-
+    e "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 
     # This ends the game.
 
